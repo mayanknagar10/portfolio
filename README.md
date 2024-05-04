@@ -1,10 +1,6 @@
 # Data Engineer
 
-### Skills
-
-#### Tools and Languages: Python • C++ • Power BI • Tableau • Azure Data Factory • Data Science and Analytics • Machine Learning • SQL Server
-
-#### Quntitative Research: Statistics • SQL • Excel
+#### Technical Skills: Python • C++ • Power BI • Tableau • Azure Data Factory • Data Science and Analytics • Machine Learning • SQL Server • Statistics • SQL • Excel
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
@@ -56,4 +52,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-- [Data Science Blog](https://medium.com/@shawhin)
+E-mail: nmayank.790@gmail.com
+Mobile: +91-9302743973
+Location: Pune, Maharashtra, India
