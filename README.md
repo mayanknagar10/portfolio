@@ -21,12 +21,14 @@ nmayank.790@gmail.com | +91-9302743973 | Pune, Maharashtra, India
 - Hands-on experience implementing projects with Python, Pyspark, and SQL.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### STOCK MARKET ANALYSIS AND PREDICTION
+[Report](https://github.com/mayanknagar10/stock-market-analysis-and-prediction/blob/main/Thesis%20Report.pdf)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+- In the era of big data, deep learning and machine learning for analyzing and predicting stock market prices and trends have become even more popular than before.
+- We take live data API and propose comprehensive customization of feature engineering and deep learning-based model for analyzing and predicting price trends of stock markets.
+- The proposed solution is comprehensive as it includes pre-processing of the stock market dataset, utilization of feature engineering techniques, combined with customized deep learning algorithms for stock market price trend prediction.
+- We conducted comprehensive evaluations on frequently used deep learning models and conclude that our suggested solution outperforms due to the analysis part and different feature engineering that we built.
+- With the detailed design and evaluation of prediction, trends, and data pre-processing methods, this work contributes both in the financial and technical domains.
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
