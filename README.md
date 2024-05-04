@@ -1,6 +1,10 @@
-# Data Scientist
+# Data Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+###Skills
+####Tools and Languages: Python • C++ • Power BI •
+                         Tableau • Azure Data Factory
+                         Data Science and Analytics • Machine Learning • SQL Server
+####Quntitative Research: Statistics • SQL • Excel
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
