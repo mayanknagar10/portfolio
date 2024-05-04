@@ -6,18 +6,17 @@ nmayank.790@gmail.com | +91-9302743973 | Pune, Maharashtra, India
 #### Python • C++ • Power BI • Tableau • Azure Data Factory • Data Science and Analytics • Machine Learning • SQL Server • Statistics • SQL • Excel
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- B.Tech., Computer Science and Engineering | Dr. Babasaheb Ambedkar Technological University at Raigad, Maharashtra (_July 2022_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Engineer (Programmer Analyst) @ Cognizant Technology Solutions, Pune, Maharashtra (_Aug 2022 - Present_)**
+- Empowering client with data-driven insights and strategic decision-making using IBM Cognos Analytics for complex business challenges.
+- Developong codes, fixing bugs and problems of Client application using Azure storage, Data migration and SQL server management studio.
+- Creating pipelines as per the business requirements using Azure Data factory, Azure Data Lake.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Programmer Analyst Trainee @ Cognizant Technology Solutions, Pune, Maharashtra (_Jan 2022 - May 2022_)**
+- Extensive expertise in Python, SQL, Spark, and Hadoop for data-driven decision-making and actionable insights.
+- Hands-on experience implementing projects with Python, Pyspark, and SQL.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
