@@ -1,6 +1,11 @@
 # Data Engineer
 
-#### Technical Skills: Python • C++ • Power BI • Tableau • Azure Data Factory • Data Science and Analytics • Machine Learning • SQL Server • Statistics • SQL • Excel
+#### Mmail: nmayank.790@gmail.com
+#### Mobile: +91-9302743973
+#### Location: Pune, Maharashtra, India
+
+### Technical Skills
+####Python • C++ • Power BI • Tableau • Azure Data Factory • Data Science and Analytics • Machine Learning • SQL Server • Statistics • SQL • Excel
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
@@ -51,7 +56,3 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
 8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-E-mail: nmayank.790@gmail.com
-Mobile: +91-9302743973
-Location: Pune, Maharashtra, India
