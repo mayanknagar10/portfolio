@@ -64,4 +64,4 @@ nmayank.790@gmail.com | +91-9302743973 | Pune, Maharashtra, India
 [Publication](https://www.irjet.net/archives/V11/i1/IRJET-V11I1113.pdf)
 
 ##
-#### CREATITIVTY | INNOVATION | TECHNOLOGY
+#### CREATIVITY | BUSINESS AND INNOVATION | TECHNOLOGY | 
