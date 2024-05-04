@@ -1,6 +1,8 @@
 # Data Engineer
 
 nmayank.790@gmail.com | +91-9302743973 | Pune, Maharashtra, India
+
+[Linkedin](https://www.linkedin.com/in/mayank-nagar10) | [Github](https://github.com/mayanknagar10) | [Tableau](https://public.tableau.com/app/profile/mayank.nagar3143) | [Kaggle](https://www.kaggle.com/nmayank10)
   
 ### Technical Skills        
 #### Python • C++ • Power BI • Tableau • Azure Data Factory • Data Science and Analytics • Machine Learning • SQL Server • Statistics • SQL • Excel
