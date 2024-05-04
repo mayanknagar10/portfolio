@@ -63,5 +63,5 @@ nmayank.790@gmail.com | +91-9302743973 | Pune, Maharashtra, India
 - Dynamic Urban Transit Optimization: A Graph Neural Network Approach for Real-Time Public Transportation Network Design and Management, Mayank Nagar, Prof. Atul V. Dusane, Dept. of Computer Science Engineering, MGM’s JNEC, Aurangabad, Maharashtra, India, IRJET: Volume: 11 Issue: 01.Jan.2024 | www.irjet.net | p-ISSN: 2395-0072
 [Publication](https://www.irjet.net/archives/V11/i1/IRJET-V11I1113.pdf)
 
-
+##
 #### CREATITIVTY | INNOVATION | TECHNOLOGY
