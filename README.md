@@ -1,6 +1,6 @@
 # Data Engineer
 
-[nmayank.790@gmail.com](nmayank.790@gmail.com) | +91-9302743973 | Pune, Maharashtra, India
+nmayank.790@gmail.com | +91-9302743973 | Pune, Maharashtra, India
   
 ### Technical Skills        
 #### Python • C++ • Power BI • Tableau • Azure Data Factory • Data Science and Analytics • Machine Learning • SQL Server • Statistics • SQL • Excel
