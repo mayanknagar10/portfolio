@@ -1,6 +1,6 @@
 # Data Engineer
 
-nmayank.790@gmail.com | +91-9302743973 | Pune, Maharashtra, India
+nmayank.790@gmail.com | +49-15510431014 | 22763, Hamburg, Germany
 
 [Linkedin](https://www.linkedin.com/in/mayank-nagar10) | [Github](https://github.com/mayanknagar10) | [Tableau](https://public.tableau.com/app/profile/mayank.nagar3143) | [Kaggle](https://www.kaggle.com/nmayank10)
   
